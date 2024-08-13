@@ -31,9 +31,13 @@
 <!--- -- My Info ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 # 
+<img align="right" width="400px" src="https://github.com/user-attachments/assets/5da5cbb8-07c6-482b-a0f5-3c219d7f95e6">
 
+- I am a final year student of B.Tech (CSE) at SR institute of Management and Technology...
+-   As a Girlscript Summer of Code contributor, i have worked on impactful open-source projects, gained hands-on coding experience, and collaborate with experienced mentors to enhance your skills and contribute to the tech community.
+-   As a Social Media Manager for Winter of Blockchain, I create and oversee content, engage with the community, and develop strategies to boost brand presence. Key tasks include managing posts, responding to inquiries, and analyzing performance metrics to drive engagement and growth.
 
-<h4><img align="center" height="20" src="https://github.com/user-attachments/assets/8dd3cc95-efe4-4dce-bea1-1e5778456bb4"> As a Girlscript Summer of Code contributor, i have worked on impactful open-source projects, gained hands-on coding experience, and collaborate with experienced mentors to enhance your skills and contribute to the tech community.</h4>
+<!--<h4><img align="center" height="20" src="https://github.com/user-attachments/assets/8dd3cc95-efe4-4dce-bea1-1e5778456bb4"> As a Girlscript Summer of Code contributor, i have worked on impactful open-source projects, gained hands-on coding experience, and collaborate with experienced mentors to enhance your skills and contribute to the tech community.</h4>-->
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
