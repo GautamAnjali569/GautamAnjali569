@@ -33,10 +33,9 @@
 # 
 <img align="right" width="400px" src="https://github.com/user-attachments/assets/7fbe5c11-b6ed-43d0-94c9-05d7720b6455">
 
-- I am a final year student of B.Tech (CSE) at SR institute of Management and Technology...
--   As a Girlscript Summer of Code contributor, i have worked on impactful open-source projects, gained hands-on coding experience, and collaborate with experienced mentors to enhance your skills and contribute to the tech community.
--   As a Social Media Manager for Winter of Blockchain, I create and oversee content, engage with the community, and develop strategies to boost brand presence. Key tasks include managing posts, responding to inquiries, and analyzing performance metrics to drive engagement and growth.
--   As a Social Media Manager for Winter of Blockchain, I create and oversee content, engage with the community, and develop strategies to boost brand presence. Key tasks include managing posts, responding to inquiries, and analyzing performance metrics to drive engagement and growth.nd analyzing performance metrics to drive engagement and growth.
+- Final Year Student of B.Tech (Computer Science Engineering) at [SR Institute of Management & Technology](https://srimt.co.in/b-tech/)
+- Currently Working as a Social Media Manager at [Winter of Blockchain](https://gssoc.girlscript.tech/wob)
+- Managing Director at [Chrome Gaming organization](https://www.linkedin.com/company/chromegaming/)
 
 <!--<h4><img align="center" height="20" src="https://github.com/user-attachments/assets/8dd3cc95-efe4-4dce-bea1-1e5778456bb4"> As a Girlscript Summer of Code contributor, i have worked on impactful open-source projects, gained hands-on coding experience, and collaborate with experienced mentors to enhance your skills and contribute to the tech community.</h4>-->
 
