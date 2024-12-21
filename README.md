@@ -33,8 +33,10 @@
 # 
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/7fbe5c11-b6ed-43d0-94c9-05d7720b6455">
 
+- Frontend Developer from [India](https://en.wikipedia.org/wiki/India) 
 - Final Year Student of B.Tech (Computer Science Engineering) at [SR Institute of Management & Technology](https://srimt.co.in/b-tech/)
-- Currently Working as a Social Media Manager at [Winter of Blockchain](https://gssoc.girlscript.tech/wob)
+- Currently working as Community Manager at [DevRhylme Foundation](https://www.devrhylme.org/)
+- Worked as a Social Media Manager at [Winter of Blockchain](https://gssoc.girlscript.tech/wob)
 - Founder & CEO at [crafftloom](https://www.linkedin.com/company/crafftloom/)
 - Community Manager at [Chrome Gaming organization](https://www.linkedin.com/company/chromegaming/)
 - I have guided more then 1000 students in [GSSoC'24](https://gssoc.girlscript.tech/) as a Mentor
