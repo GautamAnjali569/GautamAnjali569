@@ -36,7 +36,7 @@
 - Let's build from here...
 - Frontend Developer from [India](https://en.wikipedia.org/wiki/India) 
 - Final Year Student of B.Tech (Computer Science Engineering) at [SR Institute of Management & Technology](https://srimt.co.in/b-tech/)
-- Currently working as Community Manager at [DevRhylme Foundation & Community](https://www.devrhylme.org/)
+- Currently working as Community Manager at [DevRhylme Foundation and Community](https://www.devrhylme.org/)
 - Worked as a Social Media Manager at [Winter of Blockchain](https://gssoc.girlscript.tech/wob)
 - Founder & CEO at [crafftloom](https://www.linkedin.com/company/crafftloom/)
 - Community Manager at [Chrome Gaming organization](https://www.linkedin.com/company/chromegaming/)
