@@ -44,5 +44,5 @@
 
 <!--<h4><img align="center" height="20" src="https://github.com/user-attachments/assets/8dd3cc95-efe4-4dce-bea1-1e5778456bb4"> As a Girlscript Summer of Code contributor, i have worked on impactful open-source projects, gained hands-on coding experience, and collaborate with experienced mentors to enhance your skills and contribute to the tech community.</h4>-->
 
-
-
+## GSSOC(24) Badges 
+![image](https://github.com/RamakrushnaBiswal/RamakrushnaBiswal/assets/125277258/73a5969d-b2cf-4263-bfd7-d9de67545902)
